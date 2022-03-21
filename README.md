@@ -1,6 +1,6 @@
 
 ### 기술 스택
-<img src="https://img.shields.io/badge/JAVA-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/Java-색상코드?style=flat-square&logo=로고명&logoColor=007396"/>
 
 <!--
 **KhanBe/KhanBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
