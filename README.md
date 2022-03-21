@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=2E5C99&height=300&section=header&text=Khanbe&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=2E5C99&height=300&section=header&text=Khanbe&fontSize=90&fontColor=white)
 
 ### Tech Skills
 #### Languages
