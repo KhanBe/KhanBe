@@ -9,6 +9,9 @@
 ### About Me
 <a href="링크걸_주소"><img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=flat-square&logo=42&logoColor=white"/>  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://khanbe.github.io/)](https://khanbe.github.io/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wistm6980@gmail.com)](mailto:wistm6980@gmail.com)
   
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wistm1)](https://solved.ac/wistm1)
+  
   
 <!--
 **KhanBe/KhanBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
