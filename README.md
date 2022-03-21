@@ -2,8 +2,8 @@
 ### 기술 스택
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=for-the-badge&logo=42&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 
 <!--
 **KhanBe/KhanBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
