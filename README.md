@@ -18,6 +18,8 @@
 #### 셋째, 클린코드로 나아가고 있습니다.
 - 클린코드에 많이 공들이며 동료와의 협업에 기여하려는 노력을 하고있습니다.
 
+---
+
 <a href="링크걸_주소"><img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=flat-square&logo=42&logoColor=white"/>  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://khanbe.github.io/)](https://khanbe.github.io/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wistm6980@gmail.com)](mailto:wistm6980@gmail.com)
   
 [![Solved.ac
