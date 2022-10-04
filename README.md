@@ -8,6 +8,16 @@
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/>
 
 ### About Me
+---
+#### 첫째, 배운 내용과 과정을 **기록**하고있습니다.
+- 개인 블로그를 통해 지식들을 담아내고있습니다.
+
+#### 둘째, Communication이 중요한 개발자입니다.
+- 42서울의 커뮤니티로 소속되어 동료들과의 의사소통/협업을 중요시 했습니다.
+
+#### 셋째, 클린코드로 나아가고 있습니다.
+- 클린코드에 많이 공들이며 동료와의 협업에 기여하려는 노력을 하고있습니다.
+
 <a href="링크걸_주소"><img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=flat-square&logo=42&logoColor=white"/>  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://khanbe.github.io/)](https://khanbe.github.io/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wistm6980@gmail.com)](mailto:wistm6980@gmail.com)
   
 [![Solved.ac
