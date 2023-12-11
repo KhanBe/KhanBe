@@ -5,12 +5,12 @@
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 #### Tools
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/> <img alt="Unreal" src ="https://img.shields.io/badge/Unreal-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/>
 
 ### About Me
 ---
 #### 첫째, 배운 내용과 과정을 **기록**하고있습니다.
-- 개인 블로그를 통해 지식들을 담아내고있습니다.
+- 블로그, 노션을 통해 지식들을 담아내고있습니다.
 
 #### 둘째, Communication이 중요한 개발자입니다.
 - 42서울의 커뮤니티로 소속되어 동료들과의 의사소통/협업을 중요시 했습니다.
